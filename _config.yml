@@ -7,11 +7,18 @@ logo: Profile.JPG
 description: I am a full stack engineer with over eight years of experience in programming, systems analysis, databases, quality, and training. My core competencies include C#, Net Standard, Net Core, Entity Framework, Visual Basic, Azure Devops, MSSQL, Angular, React, and JS.
 # Fix spelling
 show_downloads: true 
-# Theme
-theme: jekyll-theme-minimal 
 
+
+# Theme 1
+#theme: jekyll-theme-minimal 
 # Add SEO plugin
+#plugins:
+#  - jekyll-seo-tag 
+
+# Theme 2
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-  - jekyll-seo-tag 
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # Allow visitors to contact you
 email: vhsv90@gmail.com
