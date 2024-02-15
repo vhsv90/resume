@@ -1,0 +1,16 @@
+# You can add your name here
+title: Victor Sanchez
+# Use a relative path to logo image 
+logo: 1.png
+# Fix hyphenation 
+description: Data science and AI in agriculture - where bytes and botany blend for a better world. 
+# Fix spelling
+show_downloads: true 
+# Theme
+theme: jekyll-theme-minimal 
+
+# Add SEO plugin
+plugins:
+  - jekyll-seo-tag 
+# Allow visitors to contact you
+email: vhsv90@gmail.com
