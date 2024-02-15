@@ -3,6 +3,7 @@ Senior Software Developer | Portfolio: [vhsv90.github.io](https://vhsv90.github.
 
 ## Summary
 I am a full stack engineer with over ten years of experience in programming, systems analysis, databases, quality, and training.
+
 My core competencies include C#, .Net Standard & Core, Entity Framework, Visual Basic, Azure Devops, MSSQL, Angular, React, and JS.
 
 ## Skills
@@ -16,16 +17,19 @@ My core competencies include C#, .Net Standard & Core, Entity Framework, Visual 
 
 ## Experience
 **Encora** (Dates)
+
 Full Stack Developer
 - Accomplishment 1
 - Accomplishment 2  
 
 **Gorilla Logic** (Dates)
+
 Software Developer
 - Accomplishment 1
 - Accomplishment 2
 
 **Qwinix Technologies** (Dates)
+
 Senior Software Developer
 - Accomplishment 1
 - Accomplishment 2
