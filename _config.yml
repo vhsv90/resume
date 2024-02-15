@@ -1,9 +1,10 @@
 # You can add your name here
 title: Victor Sanchez
 # Use a relative path to logo image 
+# TODO: update this image
 logo: 1.png
 # Fix hyphenation 
-description: Data science and AI in agriculture - where bytes and botany blend for a better world. 
+description: I am a full stack engineer with over eight years of experience in programming, systems analysis, databases, quality, and training. My core competencies include C#, Net Standard, Net Core, Entity Framework, Visual Basic, Azure Devops, MSSQL, Angular, React, and JS.
 # Fix spelling
 show_downloads: true 
 # Theme
