@@ -1,23 +1,77 @@
 # Your Name
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+Senior Software Developer | Portfolio: [vhsv90.github.io](https://vhsv90.github.io)
 
 ## Summary
-1-2 sentences summarizing your professional experience and expertise
+I am a full stack engineer with over ten years of experience in programming, systems analysis, databases, quality, and training.
+My core competencies include C#, .Net Standard & Core, Entity Framework, Visual Basic, Azure Devops, MSSQL, Angular, React, and JS.
 
 ## Skills
-- Programming Languages: Python, JavaScript, etc 
-- Web Frameworks: React, Django, etc
-- Databases: MySQL, MongoDB
-- Tools & Methods: Git, Agile, TDD, etc
+- Programming Languages: C#, JavaScript, Visual Basic, Python, PHP
+- Web Frameworks: React, Django, Razor, Blazor, Angular 4
+- CMS: Wordpress, Joomla, DotNetNuke, Moodle, EpiServer, Umbraco
+- Databases: MSSQL, MySQL, PL/SQL, MongoDB
+- ORM: Entity Framework, Dapper, NHibernate
+- Tools & Methods: Git, Agile, TDD, Scrum, Unit Testing
+- Cloud: AWS SQS, AWS Lambda Functions, VMs Azure, SQL Azure, Azure WebApp, Digital Ocean Droplets
 
 ## Experience
-**Company Name** (Dates)   
-Job Title
+**Encora** (Dates)
+Full Stack Developer
 - Accomplishment 1
 - Accomplishment 2  
 
-**Company Name** (Dates)
-Job Title
+**Gorilla Logic** (Dates)
+Software Developer
+- Accomplishment 1
+- Accomplishment 2
+
+**Qwinix Technologies** (Dates)
+Senior Software Developer
+- Accomplishment 1
+- Accomplishment 2
+
+**Intertec** (Dates)
+Senior Software Developer
+- Accomplishment 1
+- Accomplishment 2
+
+**Excel SoftSources** (Dates)
+Senior Software Developer
+- Accomplishment 1
+- Accomplishment 2
+
+**Stateside** (Dates)
+Software Developer
+- Accomplishment 1
+- Accomplishment 2
+
+**Auxis** (Dates)
+Software Developer
+- Accomplishment 1
+- Accomplishment 2
+
+**Accenture** (Dates)
+Developer Analyst
+- Accomplishment 1
+- Accomplishment 2
+
+**BCD Travel** (Dates)
+Software Developer
+- Accomplishment 1
+- Accomplishment 2
+
+**Procter & Gamble (Contractor)** (Dates)
+Software Developer
+- Accomplishment 1
+- Accomplishment 2
+
+**Concentrix** (Dates)
+Assistant Operation Director
+- Accomplishment 1
+- Accomplishment 2
+
+**JBQ** (Dates)
+Software Internship 
 - Accomplishment 1
 - Accomplishment 2
 
@@ -31,5 +85,4 @@ Job Title
 - Accomplishment
 
 ## Education
-**Degree** | University Name | Date Graduated
-Courses, activities, or other details
+**Degree** | University Name | Date Graduated Courses, activities, or other details
