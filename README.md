@@ -15,6 +15,8 @@ My core competencies include C#, .Net Standard & Core, Entity Framework, Visual 
 - Tools & Methods: Git, Agile, TDD, Scrum, Unit Testing
 - Cloud: AWS SQS, AWS Lambda Functions, VMs Azure, SQL Azure, Azure WebApp, Digital Ocean Droplets
 
+___
+
 ## Experience
 **Encora** (Dates)
 
@@ -35,49 +37,60 @@ Senior Software Developer
 - Accomplishment 2
 
 **Intertec** (Dates)
+
 Senior Software Developer
 - Accomplishment 1
 - Accomplishment 2
 
 **Excel SoftSources** (Dates)
+
 Senior Software Developer
 - Accomplishment 1
 - Accomplishment 2
 
 **Stateside** (Dates)
+
 Software Developer
 - Accomplishment 1
 - Accomplishment 2
 
 **Auxis** (Dates)
+
 Software Developer
 - Accomplishment 1
 - Accomplishment 2
 
 **Accenture** (Dates)
+
 Developer Analyst
 - Accomplishment 1
 - Accomplishment 2
 
 **BCD Travel** (Dates)
+
 Software Developer
 - Accomplishment 1
 - Accomplishment 2
 
 **Procter & Gamble (Contractor)** (Dates)
+
 Software Developer
 - Accomplishment 1
 - Accomplishment 2
 
 **Concentrix** (Dates)
+
 Assistant Operation Director
 - Accomplishment 1
 - Accomplishment 2
 
 **JBQ** (Dates)
+
 Software Internship 
 - Accomplishment 1
 - Accomplishment 2
+
+___
 
 ## Projects
 **Project 1** (link to project site or GitHub repo)  
@@ -87,6 +100,8 @@ Software Internship
 **Project 2** (link)
 - Description 
 - Accomplishment
+
+___
 
 ## Education
 **Degree** | University Name | Date Graduated Courses, activities, or other details
