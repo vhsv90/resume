@@ -61,41 +61,46 @@ Software Developer for RM Sothebys, Dave and Busters and Sureal
 - Working on MVP for Sureal music app, creating the microservices applications, JWT Authentication Server using .Net C#, research about how the global music server music provided works with countries/regions policies
 - Creating from scratch a local web application for HR named pancacke, created the API first using python with japronto framework that later was replaced with NodeJS/Express, also this application use MongoDB with Mongoose ORM with React Application
 
-**Auxis** (Dates)
+**Auxis** Aug 2015 - Jan 2016
+
+Software Developer for Conde Nast
+- Creating the WCF Rest services for EPayable application that manage the company invoices, also to retrieve data for reports and manage users
+- Working on developing pure HTML/CSS/JS with TempoJS library allows to create data templates in pure HTML
+
+**Accenture** Jan 2015 - Aug 2015
+
+Developer Analyst for Novartis
+- Maintaining iRepEmulator Project that emulate dynamic presentation created with C# MVC, EpiServer CMS with HTML5/CSS/JS/Animations with file sources from Salesforce
+- Developing multiple websites for Novartis using C# MVC with EpiServer CMS with frontend technologies such HTML5/CSS/JS/Knockout
+
+**BCD Travel** Dec 2013 - Dec 2014
 
 Software Developer
-- Accomplishment 1
-- Accomplishment 2
+- Adding new features and Bug Fixing to BCD Travel Core system
+- Helping with web Company bimonthly magazine project
 
-**Accenture** (Dates)
-
-Developer Analyst
-- Accomplishment 1
-- Accomplishment 2
-
-**BCD Travel** (Dates)
+**Procter & Gamble (Contractor)** Jul 2013 - Dec 2013
 
 Software Developer
-- Accomplishment 1
-- Accomplishment 2
+- I-Trade C# Windows Service that read Excel files that were created from SAP and saved in sql server database
+- I-Trade C# Windows Forms application that displays some chart with information by Incoterm, by country, and also if is raw material or finished product
 
-**Procter & Gamble (Contractor)** (Dates)
-
-Software Developer
-- Accomplishment 1
-- Accomplishment 2
-
-**Concentrix** (Dates)
+**Concentrix** May 2012 - Jun 2013
 
 Assistant Operation Director
-- Accomplishment 1
-- Accomplishment 2
+- Junior Project Management for LEAP (LMS platform) and SHINE (Employee recognization program)
+- Install/Configure Moodle platform for differents call center accounts
+- Install/Configure DotNetNuke for local intranet
+- Implement custom time tracking in PHP for a call center account
 
-**JBQ** (Dates)
+**JBQ** Oct 2011 - Apr 2012
 
 Software Internship 
-- Accomplishment 1
-- Accomplishment 2
+- Daily manual backup for different databases in MySql and Microsoft Sql Server
+- Managing domains and hosting for company clients
+- Creating animated banners with ActioScript 1 and ActioScript 2
+- Developing custom application in Facebook like small 'games' and share posts on Facebook
+- Creation and maintenance website for Dos Pinos, Saprissa Soccer Team, Microtechnologies CR, Sweetwell CR
 
 ___
 
