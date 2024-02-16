@@ -7,13 +7,13 @@ I am a full stack engineer with over ten years of experience in programming, sys
 My core competencies include C#, .Net Standard & Core, Entity Framework, Visual Basic, Azure Devops, MSSQL, Angular, React, and JS.
 
 ## Skills
-- Programming Languages: C#, JavaScript, Visual Basic, Python, PHP
-- Web Frameworks: React, Django, Razor, Blazor, Angular 4
-- CMS: Wordpress, Joomla, DotNetNuke, Moodle, EpiServer, Umbraco
-- Databases: MSSQL, MySQL, PL/SQL, MongoDB
-- ORM: Entity Framework, Dapper, NHibernate, Mongoose
-- Tools & Methods: Git, Agile, TDD, Scrum, Unit Testing
-- Cloud: AWS SQS, AWS Lambda Functions, VMs Azure, SQL Azure, Azure WebApp, Digital Ocean Droplets
+- **Programming Languages:** C#, JavaScript, Visual Basic, Python, PHP
+- **Web Frameworks:** React, Django, Razor, Blazor, Angular 4
+- **CMS:** Wordpress, Joomla, DotNetNuke, Moodle, EpiServer, Umbraco
+- **Databases:** MSSQL, MySQL, PL/SQL, MongoDB
+- **ORM:** Entity Framework, Dapper, NHibernate, Mongoose
+- **Tools & Methods:** Git, Agile, TDD, Scrum, Unit Testing
+- **Cloud:** AWS SQS, AWS Lambda Functions, VMs Azure, SQL Azure, Azure WebApp, Digital Ocean Droplets
 
 ___
 
