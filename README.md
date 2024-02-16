@@ -1,4 +1,4 @@
-# Resume
+# Profile
 Senior Software Developer | Portfolio: [vhsv90.github.io/portfolio/](https://vhsv90.github.io/portfolio/)
 
 ## Summary
