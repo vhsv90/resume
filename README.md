@@ -18,11 +18,12 @@ My core competencies include C#, .Net Standard & Core, Entity Framework, Visual 
 ___
 
 ## Experience
-**Encora** (Dates)
+**Encora** Jul 2021 - Feb 2024
 
-Full Stack Developer
-- Accomplishment 1
-- Accomplishment 2  
+Full Stack Developer for Fidelity National Financial
+- Creating Windows Service, Console Application and Windows Forms application for Licensing V 2.0, that validates the client licenses for the system and others related functionality  
+- Implementing GMSA account for Web Application, Windows Service and special work using Windows.Identity to change the user of Impact application context
+- Clear all fortify vulnerabilities for Licensing V2, Impact Application (Windows Forms) and Web Application named 360  
 
 **Gorilla Logic** (Dates)
 
