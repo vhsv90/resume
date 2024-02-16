@@ -1,5 +1,5 @@
 # Resume
-Senior Software Developer | Portfolio: [vhsv90.github.io](https://vhsv90.github.io)
+Senior Software Developer | Portfolio: [vhsv90.github.io/portfolio/](https://vhsv90.github.io/portfolio/)
 
 ## Summary
 I am a full stack engineer with over ten years of experience in programming, systems analysis, databases, quality, and training.
