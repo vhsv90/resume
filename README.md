@@ -11,7 +11,7 @@ My core competencies include C#, .Net Standard & Core, Entity Framework, Visual 
 - Web Frameworks: React, Django, Razor, Blazor, Angular 4
 - CMS: Wordpress, Joomla, DotNetNuke, Moodle, EpiServer, Umbraco
 - Databases: MSSQL, MySQL, PL/SQL, MongoDB
-- ORM: Entity Framework, Dapper, NHibernate
+- ORM: Entity Framework, Dapper, NHibernate, Mongoose
 - Tools & Methods: Git, Agile, TDD, Scrum, Unit Testing
 - Cloud: AWS SQS, AWS Lambda Functions, VMs Azure, SQL Azure, Azure WebApp, Digital Ocean Droplets
 
