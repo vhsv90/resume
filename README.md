@@ -25,35 +25,41 @@ Full Stack Developer for Fidelity National Financial
 - Implementing GMSA account for Web Application, Windows Service and special work using Windows.Identity to change the user of Impact application context
 - Clear all fortify vulnerabilities for Licensing V2, Impact Application (Windows Forms) and Web Application named 360  
 
-**Gorilla Logic** (Dates)
+**Gorilla Logic** Mar 2020 - Jul 2021
 
-Software Developer
-- Accomplishment 1
-- Accomplishment 2
+Software Developer for Young Living
+- Updating and deploying a classic ASP visual basic application that is used for anual online events 
+- Third party Ecommerce integration with microfrontend using React and Rest API
+- Publish/Subscribe implementation using Kotlin and Kafka for top category clients
+- Updating existing Net Core APIs for User Information, Orders, Deliveries and other information
 
-**Qwinix Technologies** (Dates)
+**Qwinix Technologies** Nov 2019 - Mar 2020
 
-Senior Software Developer
-- Accomplishment 1
-- Accomplishment 2
+Senior Software Developer for Convergint Technologies
+- Creating from scratch APIs using microservices architecture for new web application using Net Core and Ocelot
+- Creating new views and components using React with Redux state for new production implementation
 
-**Intertec** (Dates)
+**Intertec** Mar 2019 - Nov 2019
 
-Senior Software Developer
-- Accomplishment 1
-- Accomplishment 2
+Senior Software Developer for Rodan & Fields and Manhattan Associates
+- Adding new APIs for new features required to Ecommerce system, also fixing bugs for Rodan Fields client
+- Integrating and upgrading Supply Chain system, adding custom features to specific integration, providing support to issues in integrations
 
-**Excel SoftSources** (Dates)
+**Excel SoftSources** Oct 2017 - Feb 2019
 
-Senior Software Developer
-- Accomplishment 1
-- Accomplishment 2
+Senior Software Developer for QPharma and PayByPhone
+- Creating and updating APIs created in Net Core with Entity Framework Code First approach for QPharma new Inventory system 
+- Working integrating the parking system for differents states in USA and some cities in Canada, also adding Unit Testing and Integration Testing for each integration
+- Configuring AWS SQS (Simple Queue Service) queues if integration required
 
-**Stateside** (Dates)
+**Stateside** Feb 2016 - Oct 2017
 
-Software Developer
-- Accomplishment 1
-- Accomplishment 2
+Software Developer for RM Sothebys, Dave and Busters and Sureal
+- Creating the new designed website for RM Sothebys using Umbraco Net CMS, also integration the CMS with Microsoft Dynamics to import the products information, also integrating Merchello Store with Umbraco
+- Azure Web App deployment, managing Virtual Machines for Devs and QA/Staging environment, Azure SQL databases and backup
+- Providing support to Dave and Busters team with deployments, client meetings, branching process and workshops for non Net developers
+- Working on MVP for Sureal music app, creating the microservices applications, JWT Authentication Server using .Net C#, research about how the global music server music provided works with countries/regions policies
+- Creating from scratch a local web application for HR named pancacke, created the API first using python with japronto framework that later was replaced with NodeJS/Express, also this application use MongoDB with Mongoose ORM with React Application
 
 **Auxis** (Dates)
 
