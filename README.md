@@ -116,6 +116,7 @@ ___
 ___
 
 ## Education
+
 **System Engineer** | University Interamericana | Bachelor, pending graduation project (internship)
 
 **Android Development** | University Interamericana | Course about creating small android mobile application
