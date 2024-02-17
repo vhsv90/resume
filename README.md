@@ -117,6 +117,9 @@ ___
 
 ## Education
 **System Engineer**       | University Interamericana   | Bachelor, pending graduation project (internship)
+
 **Android Development**   | University Interamericana   | Course about creating small android mobile application
+
 **Project Management**    | Concentrix Learning Program | All Saturday Training for 3 months
+
 **Java Intermediate**     | UNED                        | Four months distance course with monthly in-person meeting 
