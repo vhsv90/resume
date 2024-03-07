@@ -51,6 +51,7 @@ Senior Software Developer for QPharma and PayByPhone
 - Creating and updating APIs created in Net Core with Entity Framework Code First approach for QPharma new Inventory system 
 - Working integrating the parking system for differents states in USA and some cities in Canada, also adding Unit Testing and Integration Testing for each integration
 - Configuring AWS SQS (Simple Queue Service) queues if integration required
+- On Call Rotation for Production support
 
 **Stateside** Feb 2016 - Oct 2017
 
