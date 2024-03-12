@@ -103,16 +103,7 @@ Software Internship
 - Developing custom application in Facebook like small 'games' and share posts on Facebook
 - Creation and maintenance website for Dos Pinos, Saprissa Soccer Team, Microtechnologies CR, Sweetwell CR
 
-___
 
-## Projects
-**Project 1** (link to project site or GitHub repo)  
-- Description of tech used and what the project involved/accomplished
-- Accomplishment 
-
-**Project 2** (link)
-- Description 
-- Accomplishment
 
 ___
 
